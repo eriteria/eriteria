@@ -9,7 +9,7 @@
 ## I'm a Computer Engineering Student 🚀
 
 - 🎇 Interested in Backend web development (Django & Flask), devops, electronics engineering and music.
-- 🌱 I’m currently learning .
+- 🌱 I’m currently mastering Django and learning software development techniques like Agile.
 - 👯 I’m looking to collaborate on anything interesting.
 <!-- - ⚡Fun fact: . -->
 
