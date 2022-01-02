@@ -23,14 +23,8 @@
 <img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/cpp.png" />
 <img align="left"  width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/python.jpg" />
 <img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/flask.png" />
-<img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/nodejs.png" />
 <img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/ubuntu.png" />
 <img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/git.png" />
-<img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/html.png" />
-<img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/css.png" />
-<img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/js.png" />
-<img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/react.png" />
-<img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/redux.png" />
 
 
 
