@@ -43,6 +43,8 @@
 
 <a href="https://www.codewars.com/users/Eriteria" target="_blank"><img align="left" width="22px" src="https://github.com/eriteria/eriteria/blob/main/images/codewars.png" /> </a>
 
+<a href="https://leetcode.com/eriteria/" target="_blank"><img align="left" width="22px" src="https://github.com/eriteria/eriteria/blob/main/images/leetcode.png" /> </a>
+
 
 
 
