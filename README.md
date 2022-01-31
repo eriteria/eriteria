@@ -26,6 +26,7 @@
 <img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/ubuntu.png" />
 <img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/git.png" />
 <img align="left" width="30px" src="https://github.com/eriteria/eriteria/blob/main/images/django.png" />
+<img align="left" width="30px" src="https://swimburger.net/media/fbqnp2ie/azure.svg" />
 
 
 
