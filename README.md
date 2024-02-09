@@ -6,10 +6,9 @@
 
 
 
-## I'm a Computer Engineering Student 🚀
-
-- 🎇 Interested in Backend web development (Django & Flask), devops, electronics engineering and music.
-- 🌱 I’m currently mastering Django and learning software development techniques like Agile.
+## Computer Engineering Ethusiast 🚀
+ Currently working as an IT Specialist at ECOWAS Commission.
+- 🎇 Interested in Backend web development (Springboot, Django & Flask), devops, electronics engineering and music.
 - 👯 I’m looking to collaborate on anything interesting.
 <!-- - ⚡Fun fact: . -->
 
