@@ -7,7 +7,7 @@
 
 
 ## Computer Engineering Ethusiast 🚀
- Currently working as an IT Specialist at ECOWAS Commission.
+
 - 🎇 Interested in Backend web development (Springboot, Django & Flask), devops, electronics engineering and music.
 - 👯 I’m looking to collaborate on anything interesting.
 <!-- - ⚡Fun fact: . -->
